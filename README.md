@@ -7,6 +7,7 @@ provided by [Udacity](https://www.udacity.com/).
 ## [My notes](https://github.com/ayushkumarshah/Computer-Vision-Nanodegree-Udacity/tree/master/docs/README.md)
 
 - [Module 1: Intro to CV](docs/m1.md)
+- [Module 2: Advanced CV and Deep Learning](docs/m2.md)
 
 ## Projects submitted
 
