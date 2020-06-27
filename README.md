@@ -8,6 +8,7 @@ provided by [Udacity](https://www.udacity.com/).
 
 - [Module 1: Intro to CV](docs/m1.md)
 - [Module 2: Advanced CV and Deep Learning](docs/m2.md)
+- [Module 3: Object Tracking and Localization](docs/m3.md)
 
 ## Projects submitted
 
