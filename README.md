@@ -14,3 +14,4 @@ provided by [Udacity](https://www.udacity.com/).
 
 - [Project 1: Facial Keypoints Detection](https://github.com/ayushkumarshah/Computer-Vision-Nanodegree-Udacity/tree/master/P1_Facial_Keypoints)
 - [Project 2: Image Captioning](https://github.com/ayushkumarshah/Computer-Vision-Nanodegree-Udacity/tree/master/P2_Image_Captioning)
+- [Project 3: Simultaneous Localization and Tracking (SLAM)](https://github.com/ayushkumarshah/Computer-Vision-Nanodegree-Udacity/tree/master/P3_SLAM)
