@@ -85,7 +85,7 @@ class robot:
             dy = (landmark[1] - self.y) + self.rand() * self.measurement_noise
             
             m_range = self.measurement_range
-            if dx > m_range and dx < m_range or dy > -m_range and dy < m_range:
+            if abs(dx) <= m_range and abs(dy) <= m_range:
                 measurements.append([index, dx, dy])
         ## TODO: For each landmark
         ## 1. compute dx and dy, the distances between the robot and the landmark
